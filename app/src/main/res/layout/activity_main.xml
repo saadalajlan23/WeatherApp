@@ -64,7 +64,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
                 android:fontFamily="sans-serif-thin"
-                android:text="24°C"
+                android:text="4°C"
                 android:textSize="96sp">
 
             </TextView>
